@@ -1,7 +1,7 @@
-#url = "bytebank.com/cambio?moedaDestino=dolar&quantidade=100&moedaOrigem=real"
+url = "bytebank.com/cambio?moedaDestino=dolar&quantidade=100&moedaOrigem=real"
 
 #Sanitização da url
-url = " ".strip()
+#url = " ".strip()
 
 #Validação da url
 if url == "":

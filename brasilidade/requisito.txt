@@ -1,0 +1,28 @@
+Features - Parte 1:
+    CPF
+        * Validação - Deve conter 11 digitos e utilizar biblioteca de validação
+        * Máscara - 999.999.999-99
+    CNPJ
+        * Validação - Deve conter 14 digitos e utilizar biblioteca de validação
+        * Máscara - 99.999.999/9999-99
+
+    Telefone/Celular
+        * Validação - Deve conter de 10 a 11 caracteres (inclui código de área)
+        * Máscarea - (99) 9999-9999
+
+Features - Parte 2:
+    Data e Hora
+        * Deve salvar o momento de um cadastro
+        * Deve retornar data e hora no formato pt-BR
+        * Deve ser caaz de mostrar há quanto tempo um usuário está cadastrado
+
+    CEP
+        * Validação - Deve conter 8 digitos
+        * Máscara - 99999-999
+        * Acessar webService viaCep e retornar o endereço
+   
+
+
+
+
+
